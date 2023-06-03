@@ -9,3 +9,6 @@ The CSS file defines the styling for our app. We set a background color, font fa
 
 JavaScript:
 The JavaScript code handles the main functionality of the screenshot capture app. It utilizes the html2canvas library to capture the screenshot of the container element when the capture button is clicked. The captured image is then displayed in the preview container, and the download button is updated with the necessary attributes to download the image.
+
+Conclusion :
+Overall, this code sets up a click event listener on a button. When the button is clicked, it captures a screenshot of a specific HTML element, displays a preview of the captured image, and provides a download link for the image.
