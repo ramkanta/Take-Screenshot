@@ -1,5 +1,7 @@
 # Take-Screenshot
 This JavaScript code is used to capture and download a screenshot of a specific HTML element on a webpage.
+Deployed Link :
+visit : https://ramkanta.github.io/Take-Screenshot/
 
 HTML:
 In the HTML file, we define the structure of our app using various elements and classes. We have a wrapper div that contains two main sections: the container where the content and image are displayed, and the preview container where the captured screenshot is shown. Additionally, there are buttons for capturing the screenshot and downloading the image.
